@@ -1,0 +1,438 @@
+Communities_IDComm	CommunityName	LatDecDeg	LongDecDeg	Country	AllSpp
+2	Vda. Montebello	6.978583	-73.430278	Colombia	12
+3	Vda. Barro Amarillo	6.985694	-73.428583	Colombia	16
+4	Camino del Lenguerke	6.85	-73.36666667	Colombia	8
+5	Vereda Cantagallos	6.810002691	-73.36111336	Colombia	9
+7	Lepipuerto	6.464962215	-73.45473551	Colombia	7
+12	Puerto Bello	1.137222222	-76.28194444	Colombia	14
+13	Rio Nabueno	1.113333333	-76.4	Colombia	16
+14	Alro rio Hornoyaco	1.233055556	-76.53277778	Colombia	11
+15	Villa Iguana	1.238333333	-76.51972222	Colombia	12
+17	Nabu	1.600061448	-76.27609725	Colombia	10
+18	Tataui	1.614866667	-76.25	Colombia	7
+20	El Doron	1.678055556	-76.23916667	Colombia	14
+21	Apollo 13	7.239166667	-74.69305556	Colombia	13
+22	Alto de los Tarros	7.316111111	-75.08333333	Colombia	11
+23	Alto Combate	6.999444444	-75.1425	Colombia	8
+24	Tambito Natural Reserve	2.521388889	-77	Colombia	33
+26	Alder forest	-0.356858864	-78.07291365	Ecuador	5
+30	Acanama	-3.7	-79.23333333	Ecuador	11
+31	River Maspa chico	-0.409468956	-78.03355878	Ecuador	7
+32	Bosque Protector Cerro Blanco	-2.2	-80.03333333	Ecuador	10
+34	Canelos	-1.533333333	-77.75	Ecuador	10
+35	Cascada de San Rafael	-0.05	-77.53333333	Ecuador	17
+36	Centro Cientifico Rio Palenque	-0.5	-79.5	Ecuador	19
+37	Cerro Mungus	0.44088729	-77.86355501	Ecuador	13
+38	Cerro Mutiles	0.9	-79.61666667	Ecuador	11
+39	Cabeceras de Blisa	0.616666667	-79.85	Ecuador	13
+40	Parque Nacional Machalilla	-1.541666667	-80.70833333	Ecuador	12
+43	Reserva Ecologica Arenillas	-3.516666667	-80.05	Ecuador	2
+44	Cerro Achi	-1.333333333	-80.65	Ecuador	5
+49	Mindo Lindo	-0.016666667	-78.76666667	Ecuador	21
+50	Oyacachi	-0.216666667	-78.03333333	Ecuador	8
+51	Palanda	-4.65	-79.15	Ecuador	10
+52	Papallacta Pass	-0.333333333	-78.2	Ecuador	15
+53	Parque National Cotopaxi	-0.666666667	-78.36666667	Ecuador	9
+55	Reserva Bosque Pertificado de Puyango	-3.866666667	-80.16666667	Ecuador	4
+56	Reserva Jatun Sacha	-1.066666667	-77.6	Ecuador	23
+57	Reserva Jaunche	-1.333333333	-79.58333333	Ecuador	9
+59	Shishico camp	-0.196936642	-77.47832828	Ecuador	13
+60	Sozoranga	-4.35	-79.78333333	Ecuador	10
+61	Tandayapa Pass and Bellavista Lodge	-0.016666667	-78.7	Ecuador	19
+62	Tinalandia	-0.3	-79.16666667	Ecuador	14
+127	Achiral - Pozul	-4.02527	-79.90005	Ecuador	16
+128	Alamor	-4.01587	-80.03192	Ecuador	5
+129	Angashcola	-4.56371	-79.36314	Ecuador	18
+131	Bilsa	0.36666	-79.75006	Ecuador	17
+132	Bombuscaro2	-4.13329	-78.96675	Ecuador	21
+133	Bosque Protector Aguarongo	-2.97591	-78.8523	Ecuador	8
+136	Campo Verde	-3.83327	-80.1667	Ecuador	4
+137	Celica	-3.94996	-79.80005	Ecuador	8
+138	Cerro San Bartolo	-4.56662	-79.36673	Ecuador	7
+139	Cubilán	-2.68712	-78.86888	Ecuador	10
+140	Cuenca	-2.88049	-78.98122	Ecuador	5
+141	El Angolo	-4.35539	-80.81769	Peru	5
+142	El Chorro	-3.13063	-79.16564	Ecuador	7
+143	El Labrado	-2.72165	-79.07512	Ecuador	8
+144	El Limo	-3.96787	-80.14465	Ecuador	12
+146	Frailejones	-4.34408	-80.38793	Ecuador	4
+147	Hda. Jujal	-4.26963	-80.05837	Ecuador	3
+148	Hda. Linderos	-4.27315	-80.13333	Ecuador	3
+149	Huashapamba	-3.65334	-79.26247	Ecuador	8
+150	Jatumpamba	-4.31663	-79.86672	Ecuador	6
+152	La Ceiba	-4.30129	-80.36406	Ecuador	4
+153	Laipuna	-4.22015	-79.91824	Ecuador	7
+155	Manta Real	-2.578623041	-79.33181835	Ecuador	14
+156	Oña Capa	-3.56664	-79.13341	Ecuador	4
+159	Pozo del Pato	-3.8333	-80.20003	Ecuador	3
+160	Quebrada Las Vegas	-4.01496	-80.02509	Ecuador	7
+161	Quebrada Suquinda	-4.30908	-79.80964	Ecuador	5
+162	Reserva Natural El Tundo	-4.32356	-79.81349	Ecuador	10
+164	Reserva Yunguilla	-3.24997	-79.25007	Ecuador	10
+165	San Miguel	-2.811467538	-79.53898999	Ecuador	7
+166	San Pablo	-3.6833	-79.55006	Ecuador	4
+167	Selva Alegre	-3.5333	-79.36674	Ecuador	8
+168	Sunsun-Yanasacha	-2.94754	-79.09183	Ecuador	8
+169	Tambillo	-3.28658	-78.85036	Ecuador	6
+171	Tinajillas	-3.00277	-78.64964	Ecuador	4
+172	Uritusinga	-4.1007	-79.15071	Ecuador	8
+176	Páramos de Matanga and Bestión	-3.283333333	-78.90833333	Ecuador	9
+177	Ecolodge Kapawi	-2.53361	-76.826	Ecuador	21
+178	Guandera	0.583333	-77.7	Ecuador	20
+179	Yanacocha	-0.146286809	-78.58798144	Ecuador	19
+180	Verdecocha	-0.1	-78.6	Ecuador	19
+182	Buenaventura	-3.562784685	-79.86370521	Ecuador	23
+183	Cajanuma	-4.1	-79.15	Ecuador	20
+184	San Isidro	-1.522206558	-78.17969703	Ecuador	25
+186	Otonga	-0.416666667	-79	Ecuador	13
+187	Chicaque	4.627222339	-74.31473584	Colombia	11
+188	Tabio	4.927484	-74.11167	Colombia	8
+189	Cachalu	6.116667	-73.216667	Colombia	15
+190	Minga	3.56702	-76.58448	Colombia	17
+191	Alto Yunda	3.528146599	-76.78992116	Colombia	22
+194	Matamatá	-3.816666667	-70.26666667	Colombia	16
+195	Paramo Frontino Camp I	6.451250818	-76.07458322	Colombia	10
+196	Paramo Frontino Camp II	6.429480805	-76.07862468	Colombia	8
+197	Paramo Frontino Camp III	6.417796	-76.070847	Colombia	9
+217	Loro Orajiamarillo	5.535228	-75.793603	Colombia	20
+223	El colibri del Sol	6.483333	-76.1	Colombia	16
+225	Arrierito Antioqueno	6.983333	-75.1	Colombia	12
+227	La Peña	10.6008333	-75.02472222	Colombia	5
+228	Los Pendales	10.62138889	-75.24	Colombia	8
+229	Megua	10.9252778	-74.878333	Colombia	2
+230	La Playa	10.89694444	-74.8783333	Colombia	2
+231	Aguada de Pablo	10.48638889	-75.00416667	Colombia	2
+233	Mayorquin	3.91	-77.083333	Colombia	3
+235	CIEM	2.666667	-74.1666667	Colombia	20
+236	Jardin Botanico Bogota	4.6733333	-74.10402778	Colombia	2
+238	Cispata	9.374166667	-75.8363889	Colombia	6
+239	Rio Guajalito	-0.233333	-78.81667	Ecuador	25
+240	Guango Lodge Papallacta	-0.421388889	-78.01416667	Ecuador	20
+241	Hacienda El Para	-0.806111111	-77.78333333	Ecuador	7
+242	Wildsumaco Lodge	-0.634447	-77.442627	Ecuador	37
+244	Mindoloma	-0.035019	-78.743134	Ecuador	27
+245	Rio Silanche Brid Sanctuary	-0.106388889	-79.07694444	Ecuador	15
+246	Sani Lodge	-0.400833333	-76.1325	Ecuador	19
+247	Napo Wildlife Center	-0.503333333	-76.42694444	Ecuador	24
+248	Rio Canande	-0.527777778	-79.21222222	Ecuador	18
+249	Antisana Ecological Reserve	-0.434722222	-78.0575	Ecuador	8
+250	Playa de Oro	0.865833333	-78.80111111	Ecuador	15
+251	Jorupe Low	-4.371708333	-79.92003056	Ecuador	7
+252	Jorupe High	-4.321111111	-79.8575	Ecuador	6
+255	Intag	0.35	-78.42138889	Ecuador	6
+256	Corazon	-0.55	-78.71666667	Ecuador	6
+257	Salinas	-1.416555556	-79.05527778	Ecuador	4
+258	Mazan	-2.866666667	-79.11666667	Ecuador	11
+259	Chaucha	-2.866666667	-79.38333333	Ecuador	7
+260	Ana Tenorio	-0.983333333	-78.26666667	Ecuador	8
+261	Toledo	-4.383333333	-79.11666667	Ecuador	8
+262	Lagunillas	-4.783333333	-79.4	Ecuador	9
+263	Atillo	-2.183333333	-78.48333333	Ecuador	5
+264	Tingichaca	-2.2	-78.43333333	Ecuador	7
+265	Purshi	-2.2	-78.38333333	Ecuador	17
+266	Lago	-2.066666667	-78.21666667	Ecuador	10
+267	Primero	-2.083333333	-78.18333333	Ecuador	11
+268	Nueva	-2.1	-78.15	Ecuador	14
+271	Romerillos	-4.085719444	-78.95770833	Ecuador	13
+272	East of San Pedro de Vilcabamba	-3.943805556	-79.41430833	Ecuador	14
+275	Bosque Protector Cashca Totoras	-1.75	-78.96666667	Ecuador	13
+276	Tiputini Biodiversity Station	-0.616666667	-76.16666667	Ecuador	18
+277	Comuna La Esperanza	0.781388889	-77.89444444	Ecuador	7
+280	Lagunas del Voladero, Reserva Ecológica el Ángel	0.683611111	-77.87666667	Ecuador	8
+283	Limoncocha	-0.4	-76.61666667	Ecuador	17
+284	Parque Nacional Cajas - Bosque Oriente	-2.8716597	-79.1263721	Ecuador	18
+285	Parque Nacional Cajas - Paramo	-2.857621	-79.27267	Ecuador	9
+286	Parque Nacional Cajas - Bosque Occidente	-2.85847	-79.37653	Ecuador	16
+287	Tundaloma Reserve	1.11666666	-78.766666	Ecuador	11
+288	Reserva Integral Montecaimito	0.7	-80.0833333	Ecuador	11
+289	Reserva Lalo Loor	-0.1	-80.16667	Ecuador	7
+290	Reserva Tito Santos	-0.15	-80.2	Ecuador	7
+291	Finca Integral Río Muchacho	-0.4167	-80.4333	Ecuador	5
+293	Reserva Cerro Seco	-0.58334	-80.41667	Ecuador	5
+294	Bosque de Pacoche	-1.06667	-80.8667	Ecuador	4
+295	Río Ayampe y Cantalapiedra	-1.0667	-80.8	Ecuador	13
+296	Isla de la Plata	-1.28334	-81.055	Ecuador	4
+297	Reserva Loma Alta	-1.81667	-80.6	Ecuador	21
+298	Cerro Masvale, RE Manglares-Churute	-2.41667	-79.6667	Ecuador	14
+299	Puerto Hondo	-2.2	-80.033334	Ecuador	2
+300	Utuana Reserve	-4.36667	-79.7	Ecuador	9
+301	Macara	-4.38334	-79.95	Ecuador	6
+302	El Faique	-4.11667	-80.4	Ecuador	2
+303	Bosque Protector Fasañán	-3.05	-78.7	Ecuador	7
+304	Bosque Protector Yanuncay-Yanasacha-Irquis	-2.93	-79.083334	Ecuador	13
+305	Mazar Wildlife Reserve	-2.36	-78.7	Ecuador	14
+307	Reserva de Fauna Chimborazo	-1.434	-78.884	Ecuador	9
+308	Milpe Bird Sanctuary	0.03334	-78.9	Ecuador	18
+309	Parque Metropolitano	-0.21667	-78.5	Ecuador	6
+310	Parque Itchimbía	-0.25	-78.516667	Ecuador	6
+311	Refugio Pasochoa	-0.46667	-78.4833	Ecuador	14
+312	Nayon	-0.1667	-78.4333	Ecuador	5
+313	Tumbaco	-0.21	-78.4	Ecuador	7
+314	Ilaló	-0.3	-78.4	Ecuador	8
+316	Cordillera Toisán	0.33334	-78.616667	Ecuador	9
+317	Mojanda	0.116667	-78.26667	Ecuador	18
+319	Bosque Protector Cerro Golondrinas	0.816667	-78.116667	Ecuador	25
+320	Reserva de Fauna Cuyabeno	-0.31667	-75.75	Ecuador	20
+321	Sacha Lodge	-0.45	-76.383334	Ecuador	23
+323	La Selva Lodge	-2.41667	-76.33334	Ecuador	15
+324	Yuturi Lodge	-0.55	-76.08333	Ecuador	15
+325	Estacion Cientifica Yasuni	-0.6667	-76.38333	Ecuador	13
+326	Reserva Sierra Azul	-0.68333	-77.91667	Ecuador	11
+327	Gareno Lodge	-1.035725877	-77.39862454	Ecuador	21
+328	Cordillera de Guacamayos	-0.68333	-77.8	Ecuador	25
+330	Nangaritza Valley	-4.36667	-78.75	Ecuador	23
+331	Zumba-Chito	-4.866666667	-79.13333333	Ecuador	7
+332	Via Oyacachi-El Chaco	-0.233333333	-77.91666667	Ecuador	9
+333	Paraíso de Papagayos, Quinindé	-0.3	-79.45	Ecuador	9
+334	Guayllabamba	0.466666667	-78.41666667	Ecuador	7
+335	Chugchilán	-0.8	-78.91666667	Ecuador	10
+336	Otongachi	-0.316666667	-78.95	Ecuador	7
+337	Cerro La Culebra	-1.783333333	-80.61666667	Ecuador	5
+338	Achiotes	-4.066666667	-80.28333333	Ecuador	2
+339	Progreso	-4	-80.63333333	Ecuador	3
+340	Miazi, Cordillera del Condor	-4.333333333	-78.58333333	Ecuador	11
+341	Cordillera Arañitas	-4.25	-80.33333333	Ecuador	2
+342	Arteson	0.77909414	-77.90626974	Ecuador	7
+343	El Voladero	0.678835505	-77.87585802	Ecuador	8
+344	Cordillera Virgen Negra	0.680287294	-77.64585348	Ecuador	11
+345	Loma Guagua	0.497403588	-77.77429041	Ecuador	11
+346	El Triunfo	-1.256944444	-78.3675	Ecuador	7
+347	Machay	-1.385555556	-78.28027778	Ecuador	7
+348	Río Mulatos	-0.9675	-78.21527778	Ecuador	8
+349	Caripero	-0.666666667	-79.08333333	Ecuador	15
+350	Sinangoe	-0.133333333	-77.45	Ecuador	7
+351	Chandiquia	-0.133333333	-77.38333333	Ecuador	10
+352	Pacaritambo	-1.033333333	-79.48333333	Ecuador	6
+353	Peninsula Santa Elena	-2.25	-80.83333333	Ecuador	2
+354	Chinapintza, Cordillera del Cóndor	-4	-78.56666667	Ecuador	14
+356	Lita-El Placer	0.783333333	-78.6	Ecuador	18
+357	Atacames-Same	0.833333333	-79.91666667	Ecuador	3
+358	Zapotillo	-4.3	-80.16666667	Ecuador	2
+360	Oña	-3.45	-79.16666667	Ecuador	4
+361	Abras de Mantequilla	-1.466666667	-79.58333333	Ecuador	7
+362	Alto Tambo	0.933333333	-78.53333333	Ecuador	11
+363	Engunga	-2.333333333	-80.55	Ecuador	3
+364	Caoní	-0.083333333	-79.08333333	Ecuador	4
+365	Isla Santay	-2.216666667	-79.85	Ecuador	2
+366	Daucay	-3.45	-79.71666667	Ecuador	6
+367	Territorio Etnico Awá parte baja	1.066666667	-78.51666667	Ecuador	8
+368	Represa Velasco Ibarra	-2.216666667	-80.96666667	Ecuador	4
+370	Tiquibuzo	-2.016666667	-79.08333333	Ecuador	3
+371	Parque Omaere	-1.466666667	-77.98333333	Ecuador	5
+372	Río Conambo	-1.583333333	-77.75	Ecuador	10
+373	Reserva Ecologica Cayapas-Mataje	1.3	-78.9	Ecuador	4
+374	Tambo Negro	-4.4	-79.85	Ecuador	3
+375	Catamayo	-3.983333333	-79.35	Ecuador	6
+376	Cerro La Torre	-1.666666667	-80.5	Ecuador	5
+377	Cerro Azul	-2.15	-80.03333333	Ecuador	8
+397	Vereda La Suiza	4.733333333	-75.58333333	Colombia	11
+403	Bosque de Torca	4.666666667	-74.01666667	Colombia	18
+407	La Buitrera	3.3625	-76.56333333	Colombia	6
+408	Campus de Meléndez en la Universidad del Valle	3.366666667	-76.53333333	Colombia	4
+410	El Planchón	2.656	-76.951	Colombia	14
+411	Campus de la Universidad del Quindío	4.544444444	-75.77027778	Colombia	8
+412	Vereda Cerca de Piedra	4.85	-74.05	Colombia	10
+413	Reserva Natural La Montaña del Ocaso	4.716666667	-75.85	Colombia	5
+415	Santuario de Flora y Fauna Galeras	1.242064	-77.396211	Colombia	13
+416	Páramo de Miraflores	2.333333333	-75.41666667	Colombia	11
+417	Serranía del Pinche	2.267827778	-77.35733611	Colombia	12
+418	Resguardo	5.5015	-75.792722	Colombia	7
+420	Bolívar	1.8401	-76.95121667	Colombia	8
+421	Cajamarca	1.9022	-77.1097	Colombia	5
+422	Curacas	1.734155556	-77.12586111	Colombia	5
+424	Los Alpes	1.74325	-77.06844444	Colombia	13
+425	Los Milagros	1.799	-76.889	Colombia	18
+426	Marsella	1.53985	-77.07336667	Colombia	13
+427	Mazamorras	1.773383333	-76.94501667	Colombia	9
+428	San Joaquín	1.780083333	-77.07055	Colombia	7
+434	San Andrés de Pisimbalá	2.566666667	-76.03333333	Colombia	6
+435	Resguardo Indigena Chimborazo	2.75	-76.63333333	Colombia	11
+437	Vereda El Naranjal	2.333388889	-77.34944444	Colombia	13
+438	Sector Charguayaco	2.692638889	-76.90530556	Colombia	13
+439	Reserva Natural Tambito,  Parte baja del Palmar	2.5097	-77.00817389	Colombia	21
+440	Isla de Gorgona y Gorgonilla	2.966058333	-78.17800833	Colombia	3
+442	Bosque de Río Blanco, Popayán	2.497127778	-76.52862222	Colombia	13
+443	Bosque Palacé, Popayán	2.511455556	-76.52797778	Colombia	10
+444	Bosque la Cabuyera, Popayán	2.523172222	-76.54526667	Colombia	6
+445	Sector La Romelia	2.666655556	-76.90083611	Colombia	13
+446	20 de Julio	2.488	-76.982	Colombia	18
+447	Casa de Vidrio, Cerro Pintao	10.36694444	-72.89747222	Colombia	5
+448	Vereda El Cinco, Finca Raúl Becerra	10.36389722	-72.94738889	Colombia	6
+449	Escuela San Antonio	10.36161111	-72.99302778	Colombia	11
+450	Reserva Privada Materedondo	4.556944444	-74.01077778	Colombia	10
+451	Reserva Marilandia	4.43375	-74.09019444	Colombia	11
+452	Queremal	3.516666667	-76.71666667	Colombia	10
+453	Campo Capote	6.067777778	-74.05694444	Colombia	10
+454	La Barca	1.966666667	-77.11666667	Colombia	8
+455	Torca Norte	4.778944444	-74.01277778	Colombia	14
+480	El Alto del trueno	2.561463889	-76.13141111	Colombia	10
+481	El Carmen	2.584	-76.057	Colombia	8
+483	Vereda El Hato	2.534	-76.082	Colombia	14
+484	Serranía del Perijá	10.29166667	-72.94166667	Colombia	16
+485	Reserva natural La Planada and Finca El Bosque	1.166666667	-78	Colombia	18
+486	Hacienda la Corocora	3.95	-73.4	Colombia	5
+487	Resguardo Indigena Uitoto	-4.132424	-69.949871	Colombia	11
+488	Complejo Petrolero Caño Limón	6.9166	-70.9666	Colombia	6
+489	Flanco Occidental, Volcán de Chiles	0.866666667	-77.96666667	Colombia	19
+490	Alto Ucumarí Parque Nacional Natural Ucumarí	4.708888889	-75.49361111	Colombia	16
+491	Santuario de flora y Fauna Otún Quimbaya	4.736057	-75.590494	Colombia	10
+492	Fincas Cafeteras de la Vereda Valladolid	5.133333333	-75.93333333	Colombia	5
+493	Cabecera municipal del Mpio	4.05	-75.6	Colombia	14
+494	Finca Merenberg	2.266666667	-76.2	Colombia	14
+495	Corregimiento de Cupica y Jurubirá	6.694452778	-77.499775	Colombia	15
+496	Finca Villa Carolina	3.563297222	-76.60329722	Colombia	14
+497	Páramo Santa Isabel	0.879	-77.196	Colombia	6
+498	Paramo el Estero	0.950123	-77.153661	Colombia	6
+499	Bordoncillo	1.183333333	-77.117	Colombia	6
+500	Reserva Natural Nirvana	3.475277778	-76.19055556	Colombia	13
+501	Alto mesay	0.263297222	-72.91996389	Colombia	6
+502	Cuñaré	0.529963889	-72.61996389	Colombia	10
+503	Saramano	0.146630556	-72.60329722	Colombia	8
+504	Cuñaré Amu rivers	0.229963889	-72.83663056	Colombia	7
+505	Finca Andalucia	2.730333333	-74.85530556	Colombia	13
+506	Rios Rumichaco y Rancheria	0.515366667	-77.27583333	Colombia	25
+507	El mirador	1.069722222	-76.74472222	Colombia	12
+510	Quebrada santa Elena	6.226833	-75.5177	Colombia	9
+514	Acacias	4.042222222	-73.79138889	Colombia	10
+516	Aurora Alta	4.766111111	-74.00972222	Colombia	13
+517	Bosque de Bavaria	4.1775	-73.64555556	Colombia	8
+518	El Barro	1.24953	-78.115728	Colombia	17
+519	Finca Rosita	3.54413	-76.1641	Colombia	11
+520	Hacienda Mozambique	4.0833	-72.9833	Colombia	7
+521	Had. Carimagua	4.5666667	-71.3333333	Colombia	4
+522	Instituto Agricola Camacho Angarita	3.711351	-75.525634	Colombia	7
+523	Jeguadas -  Pisones	5.39318	-75.9988	Colombia	20
+525	La Leticia	-4.215731	-69.93521	Colombia	9
+526	Mambita	4.768	-73.222	Colombia	10
+527	Mistrato	5.309261111	-75.88506667	Colombia	17
+528	Norcasia	5.563577778	-74.87999722	Colombia	11
+529	Parque Natural Chicaque	4.613752778	-74.30460833	Colombia	9
+530	Reserva Forestal Navarco	4.6166667	-75.5833333	Colombia	9
+532	Monilla arenas	-4.216667	-69.933313	Colombia	8
+533	Hitomo II	-4.142422	-69.932101	Colombia	8
+534	Reserva Rio Blanco, Parque Nacional Chingaza	4.753126	-73.866354	Colombia	13
+535	Restrepo	4.26513	-73.557762	Colombia	14
+536	Bocas del Pira	-0.441263	-70.257216	Colombia	9
+537	Rio Inídira	3.649198	-67.933718	Colombia	10
+538	San Jose de Suaita	6.159444444	-73.44277778	Colombia	13
+539	200	6.758888889	-73.73611111	Colombia	7
+540	500	6.520611111	-73.61311111	Colombia	11
+542	750	6.527833333	-73.59580556	Colombia	11
+545	1600	6.621	-73.50036111	Colombia	10
+550	2000	6.629194444	-73.31477778	Colombia	9
+552	3000	6.633388889	-73.39441667	Colombia	6
+553	Finca Los Andes	7.272611111	-73.09602778	Colombia	9
+554	Vereda Retiro Grande, Finca El Brasil	7.142555556	-73.05427778	Colombia	8
+555	Vereda Bucaré, Finca La Pajita	7.294416667	-72.93172222	Colombia	10
+556	Finca Buenos Aires	7.344611111	-73.08419444	Colombia	13
+557	Finca Cañaverales, Corregimiento de Portugal	7.155583333	-73.27327778	Colombia	11
+574	El aburrido	7.24025	-73.09761111	Colombia	8
+575	El puente	7.159527778	-73.28366667	Colombia	9
+576	El rasgon	7.038888889	-72.98888889	Colombia	13
+578	Juan Parra	7.072361111	-72.93797222	Colombia	9
+579	La Honda	7.252861111	-73.2145	Colombia	7
+580	La planada	7.013638889	-72.96919444	Colombia	7
+581	Pangote	7.408972222	-72.94711111	Colombia	7
+582	La Pedrera	-0.59937	-72.398646	Colombia	12
+583	El Tuparro	5.2525	-67.8661	Colombia	8
+584	Los angelitos	7.0625	-70.7981	Colombia	4
+585	Tinije	4.892777778	-72.41833333	Colombia	5
+586	Pubenza	2.502777778	-76.53222222	Colombia	14
+587	Quemanda	6.435972222	-76.08945139	Colombia	13
+589	Santa Barbara	6.424263889	-76.08488657	Colombia	11
+616	El Quince	6.415470044	-76.07903322	Colombia	14
+618	Jardin	4.157527778	-75.75752778	Colombia	24
+619	Mirador	4.135305556	-75.73281481	Colombia	15
+620	Municipio	4.2115	-75.77816667	Colombia	18
+621	Betuca	5.765061	-75.966169	Colombia	16
+622	Monserrat	5.598278	-75.856336	Colombia	23
+623	Cultivares	5.81378	-75.79856	Colombia	18
+624	Las Cinfuentes			Colombia	7
+625	Mesenia	5.50472	-75.89117	Colombia	21
+626	El Oasis			Colombia	15
+627	El Catillo	6.98266	-75.112032	Colombia	16
+628	Loma Patoco	6.056919192	-74.26430682	Colombia	21
+629	El Socio	6.037222222	-74.26133333	Colombia	17
+630	Valiente	6.054444444	-74.24683333	Colombia	11
+633	El Maiz	1.340144444	-78.07311389	Colombia	16
+634	El Mirador	1.334319444	-78.06595	Colombia	14
+635	El Quinde	1.359222222	-78.08480556	Colombia	10
+636	Penelope	1.355713889	-78.07561111	Colombia	13
+637	Montesion	11.28392245	-74.11072222	Colombia	11
+638	Girocasaca	11.21575417	-74.09531806	Colombia	15
+639	Minca	11.14117245	-74.12647569	Colombia	22
+640	La Victoria	11.11993287	-74.08864931	Colombia	10
+641	San Lorenzo	11.10698619	-74.06937508	Colombia	18
+642	Falan			Colombia	14
+643	La Cascada			Colombia	35
+644	Roncesvalles	4.04701	-75.593844	Colombia	22
+646	Primavera Alta	6.783333333	-73.4	Colombia	11
+648	La Florida, Hacienda	5.60147	-75.462632	Colombia	5
+649	Bosque Los Alcazares, El arenillo	5.071837	-75.505213	Colombia	9
+650	Bosque de Florencia	5.5833	-74.9167	Colombia	21
+651	Cerro de Guadalupe	5.2664	-75.26675	Colombia	7
+653	En Medio De Rio, finca Villa Belmira	5.3356278	-75.4823611	Colombia	8
+654	Jardín Botánico, Universidad de Caldas	5.054595	-75.495678	Colombia	10
+655	La Victoria	5.421248	-74.9166	Colombia	8
+656	Marulanda	5.2833	-75.2667	Colombia	5
+657	Rio Manso, Vereda San Roque	5.6667	-74.7833	Colombia	8
+659	Base Militar Tolemaida	4.250667	-74.662997	Colombia	6
+660	Camino a San Juanito. Monasterio Monterredondo	4.4833	-73.9333	Colombia	9
+661	Laguna De Pedro Palo	4.675864	-74.3931	Colombia	11
+662	Centro Recreacional CAFAM	5.25	-75.1667	Colombia	4
+663	Reserva Natural Privada - Semillas de Agua	4.243055556	-75.56194444	Colombia	10
+664	Barbona	4.3	-75.006667	Colombia	5
+665	Doima	4.426	-74.966	Colombia	6
+666	Laguna de Ventaquemada	3.835037	-75.289676	Colombia	4
+667	Salado	4.450556	-75.145	Colombia	5
+668	Rio Coello	4.483333	-75.25	Colombia	8
+669	Toche	4.55	-75.416667	Colombia	25
+670	Dantas	4.3	-75.433333	Colombia	8
+671	Tres Puertas	5.088	-75.625	Colombia	6
+672	Cenicafe Station	4.997	-75.602	Colombia	14
+673	Ecological park Los Alcázares	5.077	-75.48	Colombia	11
+674	ecological park Los Yarumos	5.077	-75.5	Colombia	3
+676	Gabriel Arango Restrepo Foundation	5.043	-75.444	Colombia	5
+677	El Zancudo	5.059	-75.433	Colombia	11
+678	Rio Blanco outlet	5.093	-75.42	Colombia	7
+679	Kilometro 41	5.126	-75.67	Colombia	4
+680	Páramo de Letras	5.037	-75.329	Colombia	5
+682	Reserva El Caduceo	3.665416667	-73.65802778	Colombia	5
+684	Reserva Natural Palmarito	4.825483333	-71.66335	Colombia	4
+685	Reserva Natural Bojonawi	6.097997222	-67.48321667	Colombia	10
+686	Arroyo Julian	11.21913333	-73.31623333	Colombia	7
+687	Chocho	11.271191	-73.325955	Colombia	3
+688	Laguna Buena Vista	11.55817	-72.886321	Colombia	2
+689	Laguna Grande	11.38333333	-73.15	Colombia	2
+690	Laguna La Pedregosa	11.26805	-73.20681667	Colombia	4
+691	Laguna Navio Quebrado	11.38793333	-73.10083333	Colombia	3
+693	Sector El Manantial	10.73875	-72.84025	Colombia	3
+694	Parque Los Nevados	4.983333333	-75.31666667	Colombia	7
+696	Reserva hidrografica Rio Blanco	5.066666667	-75.43333333	Colombia	11
+697	Cerro Montezuma	5.016	-76.191	Colombia	9
+698	Reserva Jardin Encantado	4.966666667	-74.28333333	Colombia	17
+699	Reserva Bioandina	4.856154	-73.852763	Colombia	6
+700	Reserva Rogitama	5.795305556	-73.45672222	Colombia	9
+701	Reserva Natural Cañon de Rio Claro	1.122416667	-70.09347222	Colombia	4
+702	Reserva Natural Los Besotes	10.561431	-73.284943	Colombia	13
+703	Humedal la Conejera	4.761674	-74.105015	Colombia	3
+704	Reserva Macanal	4.724939	-74.3628	Colombia	14
+705	Quebrada La Vieja	4.622033	-74.054258	Colombia	12
+707	Reserva Natural Las Unamas	3.570833333	-73.45777778	Colombia	3
+708	Reserva Natural La Esperanza	5.717361111	-71.23716667	Colombia	5
+709	Hato La Aurora	6.033027778	-71.37641667	Colombia	3
+710	Reserva Natural Nimajay	6.971944444	-67.66983333	Colombia	3
+712	Mitu Cachivera	1.228388889	-70.238	Colombia	4
+713	Ceima Cachivera	1.222694444	-70.16086111	Colombia	2
+714	Urania	1.270805556	-70.19266667	Colombia	3
+715	Juntas y Combeima	4.566666667	-75.31666667	Colombia	14
+717	Galapagos	4.816666667	-76.16666667	Colombia	14
+718	Sumapaz	4.316666667	-74.2	Colombia	4
+719	Onzaga Peak	6.333333333	-72.73333333	Colombia	7
+721	Virgen del Agua	8.219809	-73.391596	Colombia	5
+722	Pueblo Nuevo	8.235233	-73.388333	Colombia	7
+723	Playa Guio	2.61861	-72.68944	Colombia	4
+724	Carrizal	5.683333333	-73.46166667	Colombia	6
+725	Chorrera 1	5.683333333	-73.47861111	Colombia	5
+726	La Colorada	5.725	-73.45277778	Colombia	6
+727	Morronegro	5.633333333	-73.48333333	Colombia	5
